@@ -1,0 +1,15 @@
+# For Node.js (Front-end)
+node_modules/
+
+# For Java (Back-end)
+target/
+*.log
+*.class
+
+# IDE files (if any)
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db

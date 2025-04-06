@@ -1,0 +1,39 @@
+footer {
+    background-color: #333;
+    padding: 20px 0;
+    color: white;
+    text-align: center;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 50px;
+  }
+  
+  .footer-links ul {
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+  }
+  
+  .footer-links ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+  }
+  
+  .footer-links ul li a:hover {
+    color: #f39c12;
+  }
+  
+  .social-icons a {
+    margin: 0 10px;
+  }
+  
+  .social-icons img {
+    width: 30px;
+    height: 30px;
+  }
+  
